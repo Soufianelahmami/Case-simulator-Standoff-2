@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Case Simulator Standoff 2 is an exciting application that has taken the gaming world by storm.","photo":"https://iili.io/HeDFWiJ.jpg"},
+  {"title":"advice pack 2","desc":"Developed by the talented team at Apps2all, this app is a must-have for fans of the popular online first-person shooter game Standoff 2.","photo":"https://iili.io/HeDFhKv.jpg"},
+  {"title":"how to use this app 3","desc":"This simulator allows players to open virtual cases, just like in the actual game, and receive virtual items. But what makes this app so special? Let's take a closer look.","photo":"https://iili.io/HeDFVVa.jpg"},
+  {"title":"advance mod 4","desc":"Firstly, the graphics of Case Simulator Standoff 2 are stunning. The user interface is designed to mimic the actual game, making it easy to navigate and use.","photo":"https://iili.io/HeDFMog.webp"},
+  {"title":"tips pack 5","desc":" The opening animations for the virtual cases are impressive, and the attention to detail is top-notch. Whether you're a long-time Standoff 2 player or new to the game, you'll appreciate the visual elements of this simulator.","photo":"https://iili.io/HeDFjlR.jpg"},
+  {"title":"helper mod 6","desc":"But the real fun comes in the form of opening cases. In the game Standoff 2, players can open cases to receive virtual items such as weapon skins, stickers, and graffiti.","photo":"https://iili.io/HeDFwSp.jpg"},
+  {"title":"advice pack 7","desc":"Case Simulator Standoff 2 replicates this feature perfectly, allowing players to open cases and receive virtual items as if they were playing the actual game. The app even includes a feature that shows the odds of receiving each item, just like in the real game.,"photo":"https://iili.io/HeDFOHN.jpg"},
+  {"title":"how to use this app 8","desc":"One of the best things about Case Simulator Standoff 2 is that it's completely free to play. There are no in-app purchases required to open cases, which makes it accessible to everyone. Of course, ","photo":"https://iili.io/HeDFeRI.jpg"}
 
    ]
  
